@@ -3,3 +3,6 @@
 0	877	1658635883	CMakeFiles/vktuts.dir/g_vulkan.cpp.o	ea1d6c1974ec0f8e
 878	996	1658635883	/Users/lixintao/Desktop/VkTest/app/build/intermediates/cxx/Debug/2f615k4q/obj/arm64-v8a/libvktuts.so	68770be462718fed
 0	9	0	clean	d85b62b946420f35
+3	533	1658636544	CMakeFiles/vktuts.dir/Users/lixintao/Library/Android/sdk/ndk/21.4.7075529/sources/third_party/vulkan/src/common/vulkan_wrapper.cpp.o	1273fd6e6b87091b
+2	726	1658636586	CMakeFiles/vktuts.dir/g_vulkan.cpp.o	ea1d6c1974ec0f8e
+727	890	1658636586	/Users/lixintao/Desktop/VkTest/app/build/intermediates/cxx/Debug/2f615k4q/obj/arm64-v8a/libvktuts.so	68770be462718fed

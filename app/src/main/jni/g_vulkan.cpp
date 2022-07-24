@@ -29,7 +29,8 @@ private:
     }
 
     void initVulkan() {
-
+        char info[20]="init vulkan";
+        __android_log_print(ANDROID_LOG_INFO,APP_NAME,"INFO:%s",info);
     }
 
     void mainLoop() {
