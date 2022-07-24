@@ -1,0 +1,3 @@
+/Users/lixintao/Desktop/test/app/.cxx/Debug/2i583r3r/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/lixintao/Desktop/test/app/.cxx/Debug/2i583r3r/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/lixintao/Desktop/test/app/.cxx/Debug/2i583r3r/arm64-v8a/CMakeFiles/vktuts.dir

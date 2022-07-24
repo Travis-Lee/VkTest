@@ -1,0 +1,3 @@
+/Users/lixintao/Desktop/VkTest/app/.cxx/Debug/2f615k4q/x86/CMakeFiles/rebuild_cache.dir
+/Users/lixintao/Desktop/VkTest/app/.cxx/Debug/2f615k4q/x86/CMakeFiles/edit_cache.dir
+/Users/lixintao/Desktop/VkTest/app/.cxx/Debug/2f615k4q/x86/CMakeFiles/vktuts.dir
